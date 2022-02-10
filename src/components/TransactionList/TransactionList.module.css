@@ -1,0 +1,17 @@
+.transaction {
+  padding: 10px;
+  width: 500px;
+  box-shadow: 11px 10px 19px 1px rgba(20, 44, 62, 0.2);
+  background-color: #f3f6f4;
+  margin-top: 50px;
+  text-align: center;
+}
+
+th {
+  height: 50px;
+  background-color: #bcbcbc;
+}
+
+td {
+  height: 50px;
+}
