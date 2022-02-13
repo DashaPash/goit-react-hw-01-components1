@@ -5,11 +5,3 @@
   background-color: #f3f6f4;
   margin-top: 50px;
 }
-
-.item {
-  display: flex;
-  border: 1px solid #bcbcbc;
-  padding: 5px;
-  justify-content: space-around;
-  align-items: center;
-}

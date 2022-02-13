@@ -5,6 +5,14 @@
   margin-right: 15px;
 }
 
+.item {
+  display: flex;
+  border: 1px solid #bcbcbc;
+  padding: 5px;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .online {
   background-color: #008000;
 }
